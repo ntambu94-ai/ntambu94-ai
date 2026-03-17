@@ -1,5 +1,7 @@
-## Hi there 👋
-Cybersecurity-focused IT professional with 3+ years of experience supporting enterprise systems.
+# Hello, I'm Bemvindo 👋
+<ahref="www.linkedin.com/in/bemvindo-ntambu-425437323"> 
+
+I graduated as Cybersecurity Analyst, I'm IT professional with 3+ years of experience supporting enterprise systems.
 
 This GitHub contains my SOC analyst home lab where I practice:
 
