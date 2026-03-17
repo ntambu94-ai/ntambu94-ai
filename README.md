@@ -1,5 +1,14 @@
 ## Hi there 👋
+Cybersecurity-focused IT professional with 3+ years of experience supporting enterprise systems.
 
+This GitHub contains my SOC analyst home lab where I practice:
+
+• Threat detection  
+• SIEM investigations  
+• Security event analysis  
+• Incident response workflows  
+
+Tools used include Microsoft Sentinel, Sysmon, Windows Event Logs, and Kali Linux.
 <!--
 **ntambu94-ai/ntambu94-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
