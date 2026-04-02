@@ -18,7 +18,7 @@ I specialize in:
 
 | Project | Description |
 |--------|-------------|
-| 🔍 [Windows Event Log Analysis](#) | Analyzed authentication logs to detect brute-force attempts |
+| 🔍 [Windows Event Log Analysis](https://github.com/ntambu94-ai/windows-eventlog-analysis) | Analyzed authentication logs to detect brute-force attempts |
 | [AWS Cloud Security Lab](https://github.com/ntambu94-ai/aws-cloud-security-lab) | Deployed secure static website with IAM least-privilege |
 | 🚨 [SIEM Lab - AlienVault OSSIM](#) | Simulated attacks and created correlation rules |
 
