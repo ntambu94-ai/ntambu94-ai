@@ -2,11 +2,11 @@
 
 **IT Support & Cybersecurity Professional** based in Ottawa, Canada.
 
-I specialize in:
+Technical focus:
 - 🔐 Security monitoring & incident triage
 - 🖥️ Windows & macOS enterprise support
 - 🖨️ Printer & multifunction device infrastructure
-- ☁️ AWS Cloud Security
+- AWS cloud security fundamentals
 - 📊 SIEM analysis (AlienVault OSSIM)
 
 🔗 [LinkedIn](https://www.linkedin.com/in/bemvindo-ntambu-425437323)  
@@ -22,7 +22,7 @@ I specialize in:
 |  [AWS Cloud Security Lab](https://github.com/ntambu94-ai/aws-cloud-security-lab) | Deployed secure static website with IAM least-privilege |
 | 🚨 [SIEM Lab - AlienVault OSSIM](https://github.com/ntambu94-ai/siem-lab-alienvault) | Simulated attacks and created correlation rules |
 
-*Links will be added as projects are created*
+
 
 ---
 
