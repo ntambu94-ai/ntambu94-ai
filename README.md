@@ -18,6 +18,7 @@ Technical focus:
 
 | Project | Description |
 |--------|-------------|
+| 🛡️ [Windows Registry Persistence Lab](https://github.com/ntambu94-ai/windows-registry-persistence-lab) | Detected and remediated Registry Run-key persistence using Sysinternals Autoruns and MITRE ATT&CK T1547.001 |
 | 🔍 [Windows Event Log Analysis](https://github.com/ntambu94-ai/windows-eventlog-analysis) | Analyzed authentication logs to detect brute-force attempts |
 |  [AWS Cloud Security Lab](https://github.com/ntambu94-ai/aws-cloud-security-lab) | Deployed secure static website with IAM least-privilege |
 | 🚨 [SIEM Lab - AlienVault OSSIM](https://github.com/ntambu94-ai/siem-lab-alienvault) | Simulated attacks and created correlation rules |
